@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import animals from "./animalsData";
+import Animals from "./Animals";
 import "./App.css";
 
 class App extends Component {
